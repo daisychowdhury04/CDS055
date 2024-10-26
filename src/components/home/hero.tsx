@@ -93,7 +93,7 @@ const HomeHero: FC = () => {
                         '& img': { width: { xs: 146, md: 210 }, height: 'auto' },
                       }}
                     >
-                      <img src="/images/headline-curve.svg" alt="Headline curve" />
+                      {/* <img src="/images/headline-curve.svg" alt="Headline curve" /> */}
                     </Box>
                   </Typography>
                   learning{' '}
